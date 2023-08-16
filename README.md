@@ -14,4 +14,5 @@ Days 17-20:  Importing |  Intro to OOP  |  Classes
 
 And now I'm on DAY 21: Continuing with Classes  | Attributes and Methods  |  Inheritance and Scope
 
+Day 22: Still working on Inheritance and Scope | Built-in Functions (I feel like learning C first would have been the better foundational option). 
 
