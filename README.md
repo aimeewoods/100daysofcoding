@@ -19,6 +19,6 @@ ______________________
 I feel like learning C first would have been the better foundational option). 
 ______________________
 
-Day 23: Pyhon Modules. 
+Day 23: Python Modules. 
 ______________________
-Up until now, I've felt totally lost and as if I'm reading ancient hieroglyphs. Today, all the puzzle pieces finally started falling into place. I watched Harvard's CS50 Python section and I was able to absolutely nail the answers to questions and accurately predict the code. 
+Up until now, I've felt totally lost and when I looked at code, it felt as if I was reading ancient hieroglyphs with no key to interpret what I was seeing. Today, all the puzzle pieces finally started falling into place. I watched Harvard's CS50 Python section and I was able to absolutely nail the answers to questions and accurately predict the code. It felt pretty awesome and gave me a lot of hope.
