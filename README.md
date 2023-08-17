@@ -16,7 +16,7 @@ And now I'm on DAY 21: Continuing with Classes  | Attributes and Methods  |  Inh
 
 Day 22: Still working on Inheritance and Scope | Built-in Functions 
 ______________________
-I feel like learning C first would have been the better foundational option). 
+I feel like learning C first would have been the better foundational option. 
 ______________________
 
 Day 23: Python Modules. 
