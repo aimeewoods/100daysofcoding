@@ -14,6 +14,10 @@ Days 17-20:  Importing |  Intro to OOP  |  Classes
 
 And now I'm on DAY 21: Continuing with Classes  | Attributes and Methods  |  Inheritance and Scope
 
-Day 22: Still working on Inheritance and Scope | Built-in Functions (I feel like learning C first would have been the better foundational option). 
+Day 22: Still working on Inheritance and Scope | Built-in Functions 
 
-Day 23: Pyhon Modules. Up until now, I've felt totally lost and as if I'm reading ancient hieroglyphs. Today, all the puzzle pieces finally started falling into place. I watched Harvard's CS50 Python section and I was able to absolutely nail the answers to questions and accurately predict the code. 
+I feel like learning C first would have been the better foundational option). 
+
+Day 23: Pyhon Modules. 
+
+Up until now, I've felt totally lost and as if I'm reading ancient hieroglyphs. Today, all the puzzle pieces finally started falling into place. I watched Harvard's CS50 Python section and I was able to absolutely nail the answers to questions and accurately predict the code. 
