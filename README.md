@@ -24,4 +24,5 @@ ______________________
 Up until now, I've felt totally lost and when I looked at code. It felt as if I was reading ancient hieroglyphs with no key to interpret what I was seeing. Today, all the puzzle pieces finally started falling into place. I watched Harvard's CS50 Python section and I was able to absolutely nail the answers to questions and accurately predict the code. It felt pretty awesome and gave me a lot of hope.
 ______________________
 Day 24 & 25: Psuedocode and Planning  
-I'm really trying to solidify what I've learned so far, and I'm returning to videos and tutorials to make foundations really "stick".
+I'm trying to solidify what I've learned so far, and I'm returning to videos and tutorials to make foundations really "stick". I'm currently watching Harvard's CS50 Introduction to Python. 
+David Malan is absolutely fantastic.
