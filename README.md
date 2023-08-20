@@ -26,3 +26,5 @@ ______________________
 Day 24 & 25: Psuedocode and Planning  
 I'm trying to solidify what I've learned so far, and I'm returning to videos and tutorials to make foundations really "stick". I'm currently watching Harvard's CS50 Introduction to Python. 
 David Malan is absolutely fantastic. I also coded a basic drink ordering system with my son.
+______________________
+Day 26: Today I'm creating another program and continuing with CS50's Introduction to Python videos. I'll be defining my program, writing the pseudocode, and writing some or all of the code (depending on complexity).
