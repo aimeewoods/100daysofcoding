@@ -28,3 +28,4 @@ I'm trying to solidify what I've learned so far, and I'm returning to videos and
 David Malan is absolutely fantastic. I also coded a basic drink ordering system with my son.
 ______________________
 Day 26: Today I'm creating another program and continuing with CS50's Introduction to Python videos. I'll be defining my program, writing the pseudocode, and writing some or all of the code (depending on complexity).
+Day 27: Figuring out pseudocode and building a program is a bit more complicated when starting from scratch so I'm still reviewing Harvard's Intro to Python course while trying to build a METAR decoding program. 
