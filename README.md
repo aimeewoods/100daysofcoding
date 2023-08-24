@@ -6,7 +6,7 @@ Potato coder hash(brown)tag: 100 Days of Coding
 
 "LET'S GOOOO PYTHON"
 ********************
-Days 1-7: "Hello World!"  |  Data Types  |  Functions and Conditions  |  Lists, Dictionaries and Tuples
+Days 1-7: Using Sophia Learning, I went over the following topics: "Hello World!"  |  Data Types  |  Functions and Conditions  |  Lists, Dictionaries and Tuples
 
 Days 8-16: Loops  |  Nested Loops  | Complex Functions  
 
@@ -30,3 +30,5 @@ ______________________
 Day 26: Today I'm creating another program and continuing with CS50's Introduction to Python videos. I'll be defining my program, writing the pseudocode, and writing some or all of the code (depending on complexity).
 
 Day 27: I'm trying to understand pseudocode. Building a program is a bit more complicated when starting from scratch so I'm still reviewing Harvard's Intro to Python course while trying to build a METAR decoding program. 
+
+Day 28: Concepts are great, but it's so different when you put concepts into actual practice. Continuing to work on Harvard's Intro to Python, which provides a better foundation and more practice than the Sophia Learning platform I was using previously.
