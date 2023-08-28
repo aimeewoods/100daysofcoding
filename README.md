@@ -32,3 +32,8 @@ Day 26: Today I'm creating another program and continuing with CS50's Introducti
 Day 27: I'm trying to understand pseudocode. Building a program is a bit more complicated when starting from scratch so I'm still reviewing Harvard's Intro to Python course while trying to build a METAR decoding program. 
 
 Day 28: Concepts are great, but it's so different when you put concepts into actual practice. Continuing to work on Harvard's Intro to Python, which provides a better foundation and more practice than the Sophia Learning platform I was using previously.
+
+Day 29: Still struggling with loops. I need to create a program with the parameters that allows alphanumeric input, but doesn't allow the first number input to be a zero.
+
+Day 30: EUREKA! Holy frijoles, I finally had a mental breakthrough today and it feels awesome. My synapses are firing on all cylinders. The loop I was stuck on was like a train track. I needed a switch that flipped my True/False variables to go down a different "track" (loop). That way, the minute it recognized the first number wasn't a zero, it flipped my variables True/False values so the next time it encountered a zero, it wouldn't return a false value. I get it!
+
