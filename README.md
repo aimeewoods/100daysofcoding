@@ -37,3 +37,4 @@ Day 29 and 30: Still struggling with loops. I need to create a program with the 
 
 Day 31: EUREKA! Holy frijoles, I finally had a mental breakthrough today and it feels awesome. My synapses are firing on all cylinders. The loop I was stuck on was like a train track. I needed a switch that flipped my True/False variables to go down a different "track" (loop). That way, the minute it recognized the first number wasn't a zero, it flipped my variables True/False values so the next time it encountered a zero, it wouldn't return a false value. I get it!
 
+Days 32, 33, and 34: Still working through Harvard's CS50P course. I'm watching videos and working on assignments for much more than the "hour a day" of coding, per the #100daysofcoding challenge. It's working out to an average of four hours per day and just when it feels like I get a concept down, some wrench gets thrown into my brain.  
